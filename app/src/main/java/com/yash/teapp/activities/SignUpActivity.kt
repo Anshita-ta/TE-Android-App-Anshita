@@ -1,4 +1,4 @@
-package com.yash.teapp.activities
+package com.anshita.teapp.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

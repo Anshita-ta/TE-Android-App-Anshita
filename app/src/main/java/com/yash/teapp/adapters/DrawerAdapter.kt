@@ -1,4 +1,4 @@
-package com.yash.teapp.adapters
+package com.anshita.teapp.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

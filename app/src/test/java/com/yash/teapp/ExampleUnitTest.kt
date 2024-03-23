@@ -1,4 +1,4 @@
-package com.yash.teapp
+package com.anshita.teapp
 
 import org.junit.Test
 

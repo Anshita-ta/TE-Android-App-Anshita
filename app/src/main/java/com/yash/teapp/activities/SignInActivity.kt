@@ -1,4 +1,4 @@
-package com.yash.teapp.activities
+package com.anshita.teapp.activities
 
 import android.content.Context
 import android.content.Intent
